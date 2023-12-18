@@ -2,13 +2,13 @@ h1{
     color: crimson;
 }
 body {
-    background-color: yellow;
+   background-color: rgba(243, 239, 240, 0.644);
   }
   p {
-    color: red;
+    color: rgb(199, 109, 109);
   }
   h1 {
-    color: blue;
+    color: rgb(224, 7, 7);
     font-family: verdana;
     font-size: 400%;
   }
@@ -19,3 +19,13 @@ body {
     border: 2px solid powderblue;
     padding: 30px;
   }
+  h2{
+    color: rgb(204, 201, 47);
+  }
+  p{
+    color: rgb(19, 97, 175);
+  }
+<b>h1</b>
+<strong>p</strong>
+
+  
